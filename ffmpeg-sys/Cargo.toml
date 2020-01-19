@@ -1,0 +1,8 @@
+[package]
+name = "ffmpeg-sys"
+version = "0.0.1"
+authors = ["Jason Chen <jason@jcndrop.com>"]
+edition = "2018"
+
+[build-dependencies]
+bindgen = "0.52"
